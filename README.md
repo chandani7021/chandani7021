@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;React+%7C+FastAPI+%7C+PostgreSQL+%7C+LLMs;Shipped+4%2B+end-to-end+products+solo+%F0%9F%9A%80;Smart+India+Hackathon+2022+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=600&lines=Building+AI-powered+products+%F0%9F%A4%96;React+%7C+FastAPI+%7C+PostgreSQL+%7C+LLMs;Shipped+4%2B+end-to-end+products+%F0%9F%9A%80;Smart+India+Hackathon+2022+Finalist+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-- 💼 **SWE @ [Copods](https://copods.co)** — sole dev across 4+ live products
+- 💼 **SWE @ [Copods](https://copods.co)** —  dev across 4+ live products
 - ⚡ Cut API response times **~40%**, demo prep time **~50%**
 - 🤖 Shipping with **Gemini API**, **Vapi** & **LLMs**
 - 🏆 **SIH 2022 Finalist** — Blockchain disaster platform (NDRF)
